@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: Signature, post text
 Requires at least: 4.0
 Tested up to: 4.5.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ Creates a configurable text signature at the bottom of each post.
 
 Service at : http://admin-builder.com
 
-You can create, align and resize the signature text that appears at the bottom of each post. Choose from preset sizes, change the text when ever you want.
+You can create, align and resize the signature text or images that appear at the bottom of each post. Choose from preset sizes, change the text when ever you want.
 You have globally available options or individual posts settings with all the already mentioned options.
 
 
@@ -38,8 +38,8 @@ After installation, go to The Signature One page in the bottom left of your admi
 * signature Position
 * signature size
 
-IF you want to individually configure a post,edit that post and configure: text, position and size inside the post metabox named Signature One.
-The global configuration is prioritary only if the individual post meta settings are not set.
+If you want to individually configure a post,edit that post and configure: text, position and size inside the post metabox named Signature One.
+The global configuration has priority only if the individual post meta settings are not set.
 
 
 == Screenshots ==
@@ -56,6 +56,9 @@ The global configuration is prioritary only if the individual post meta settings
 
 = 1.0 =
 * First Version of the plugin
+
+=1.1=
+*Added support for signature images
 
 == Arbitrary section ==
 
