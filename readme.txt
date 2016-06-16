@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: Signature, post text
 Requires at least: 4.0
 Tested up to: 4.5.2
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Creates a configurable text signature at the bottom of each post.
 
 == Description ==
 
-Service at : http://admin-builder.com
+Built with : http://admin-builder.com
 
 You can create, align and resize the signature text or images that appear at the bottom of each post. Choose from preset sizes, change the text when ever you want.
 You have globally available options or individual posts settings with all the already mentioned options.
@@ -62,6 +62,10 @@ The global configuration has priority only if the individual post meta settings 
 
 =1.1=
 Updated Export file
+
+= 1.1.2 =
+Removed admin_builder dependency and included the plugin inside the Scroll To Top core, so you are no longer required to install an extra plugin.
+
 
 == Arbitrary section ==
 
